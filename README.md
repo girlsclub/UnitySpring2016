@@ -1,2 +1,2 @@
 # UnitySpring2016
-Projects using zBrush and Unity for the dome.
+Welcome!  We're sharing our projects in case you are interested.
